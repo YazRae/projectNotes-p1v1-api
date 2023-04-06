@@ -16,7 +16,7 @@ import noteRoute from "./routes/noteRoute.js";
 import AuthRoute from "./routes/AuthRoute.js";
 
 const app = express();
-const PORT = process.env.PORT || 3500;
+const PORT = process.env.PORT;
 
 connectDB();
 
