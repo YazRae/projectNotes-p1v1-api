@@ -1,3 +1,3 @@
-const allowedOrigins = ['https://projectnotes-p1v1-api.onrender.com'];
+const allowedOrigins = ['https://projectnotes-p1v1.onrender.com'];
 
 export default allowedOrigins;
